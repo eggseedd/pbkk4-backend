@@ -1,0 +1,11 @@
+{
+  "job_id": "f56346c1-14f9-44b2-9479-9b6442ff70f1",
+  "file_id": "393666a5-1a81-4e87-a7f2-8201ffedb567",
+  "status": "completed",
+  "result_path": null,
+  "created_at": "2025-10-01T06:51:04.561927",
+  "updated_at": "2025-10-01T06:51:07.569157",
+  "result": {
+    "message": "Processed file 393666a5-1a81-4e87-a7f2-8201ffedb567"
+  }
+}
